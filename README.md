@@ -7,7 +7,7 @@
 
 ![screenshot](./docs/screenshot.png)
 
-Minimalism 是一款基于 Jekyll 为极简主义者打造的极简主题。你可以访问 [我的博客][blog] 或者 [主题 demo][demo] 来预览一下。
+Minimalism 是一款基于 Jekyll 为极简主义者打造的极简主题。你可以访问[主题 demo][demo] 来预览一下。
 
 ## 特性
 
